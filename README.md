@@ -1,0 +1,2 @@
+# ISITME_ENGELLI_BIREYLER_ICIN_YAPAY_ZEKA_DUYGU_ANALIZI_TEMELLI_FILM_ALTYAZI_RENKLENDIRME_YAZILIMI
+İşitme engelli bireyler için yapay zeka duygu analizi temelli film altyazı renklendirme yazılımı.
