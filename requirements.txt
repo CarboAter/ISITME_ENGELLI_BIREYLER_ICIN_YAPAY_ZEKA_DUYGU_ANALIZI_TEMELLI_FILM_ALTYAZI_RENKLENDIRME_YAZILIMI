@@ -1,0 +1,14 @@
+# requirements.txt
+
+# External libraries
+keras
+librosa
+moviepy
+numpy
+openai
+openai-whisper
+pytube
+pysrt
+python-dateutil
+
+# Note: Some dependencies like os, re, json are part of the standard library and don't need to be listed here.
